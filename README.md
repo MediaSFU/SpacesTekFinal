@@ -34,6 +34,16 @@ Welcome to the **SpacesTek Final** repository! This monorepo represents the comp
 
 ---
 
+## Getting Started
+
+Before diving into SpacesTek Final, if you’re new to our ecosystem, we highly recommend starting with our [SpacesTekInitial](https://youtu.be/-S-Lahxf-P0) introduction. This video provides a quick overview and hands-on guide to get you started.  
+  
+[![SpacesTekInitial Introduction](http://i.ytimg.com/vi/-S-Lahxf-P0/hqdefault.jpg)](https://youtu.be/-S-Lahxf-P0)
+
+Once you’re comfortable with the basics, you can explore the more advanced features in SpacesTek Final. And for even more advanced use cases, check out our [SpacesTekAdvanced](https://github.com/MediaSFU/SpacesTekAdvanced) repository.
+
+---
+
 ## Table of Contents
 
 - [Available Applications](#available-applications)
@@ -125,7 +135,29 @@ Here’s a visual walkthrough of SpacesTek. These images represent various featu
    ```
 
 2. **Choose Your Framework**:
-   - Navigate to the desired application directory (e.g., `mediasfu_angular`, `mediasfu_reactjs`) to begin setup.
+   - Navigate to the desired application directory (e.g., `mediasfu_reactjs`, `mediasfu_angular`) to begin setup.
+
+---
+
+## Video Guides for SDK Integration
+
+To help you connect your MediaSFU SDKs to the Community Edition server, we’ve prepared video guides for the frameworks currently supported:
+
+### ✅ Video Guides Available:
+- **React SDK Setup:** [Watch the React SDK Setup Guide](https://youtu.be/VvulSNB_AYg)
+  
+  [![YouTube](http://i.ytimg.com/vi/VvulSNB_AYg/hqdefault.jpg)](https://www.youtube.com/watch?v=VvulSNB_AYg)
+  
+- **Flutter SDK Setup:** [Watch the Flutter SDK Setup Guide](https://youtu.be/IzwVEMBQ3p0)
+  
+  [![YouTube](http://i.ytimg.com/vi/IzwVEMBQ3p0/hqdefault.jpg)](https://www.youtube.com/watch?v=IzwVEMBQ3p0)
+
+### 🚧 Coming Soon:
+- **Angular SDK Setup** *(Coming Soon)*
+- **React Native SDK Setup** *(Coming Soon)*
+- **React Native Expo SDK Setup** *(Coming Soon)*
+
+For additional instructions, refer to the [**Connecting SDKs Documentation**](./CONNECT.md).
 
 ---
 
@@ -138,4 +170,3 @@ We welcome contributions to improve SpacesTek! Please read our [Contribution Gui
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-

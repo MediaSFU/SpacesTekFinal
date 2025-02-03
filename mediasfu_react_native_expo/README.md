@@ -11,6 +11,7 @@ This React Native Expo project builds upon **SpacesTek Initial**, showcasing a f
 - [Key Features](#key-features)
 - [Integration Steps](#integration-steps)
 - [Key Components](#key-components)
+- [Detailed Integration Steps](./Trans_Public.md)
 - [Final Notes](#final-notes)
 
 ---
