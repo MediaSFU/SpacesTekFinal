@@ -152,12 +152,11 @@ To help you connect your MediaSFU SDKs to the Community Edition server, we’ve 
   
   [![YouTube](http://i.ytimg.com/vi/IzwVEMBQ3p0/hqdefault.jpg)](https://www.youtube.com/watch?v=IzwVEMBQ3p0)
 
-### 🚧 Coming Soon:
-- **Angular SDK Setup** *(Coming Soon)*
-- **React Native SDK Setup** *(Coming Soon)*
-- **React Native Expo SDK Setup** *(Coming Soon)*
+- **React Native SDK Setup (Expo & CLI):** [Watch the React Native SDK Setup Guide](https://youtu.be/uJkI7H26jq4)  
+  [![React Native SDK Guide](http://i.ytimg.com/vi/uJkI7H26jq4/hqdefault.jpg)](https://www.youtube.com/watch?v=uJkI7H26jq4)
 
-For additional instructions, refer to the [**Connecting SDKs Documentation**](./CONNECT.md).
+### 🚧 Coming Soon:
+- **Angular SDK Setup**
 
 ---
 
